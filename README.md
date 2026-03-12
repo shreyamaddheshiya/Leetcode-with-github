@@ -24,9 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0008-string-to-integer-atoi) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
