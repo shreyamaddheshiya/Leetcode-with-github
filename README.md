@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
+| [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
