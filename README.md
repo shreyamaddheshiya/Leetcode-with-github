@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
