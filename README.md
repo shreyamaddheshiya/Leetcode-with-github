@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
