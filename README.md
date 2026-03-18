@@ -64,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
