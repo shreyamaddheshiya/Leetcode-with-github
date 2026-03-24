@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
