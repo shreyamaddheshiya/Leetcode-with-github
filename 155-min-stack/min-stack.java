@@ -17,7 +17,7 @@ class MinStack {
         } else if (value > mini) {
             st.push(value);
         } else {
-            st.push(2 * value - mini); // now safe
+            st.push(2 * value - mini);
             mini = value;
         }
     }
