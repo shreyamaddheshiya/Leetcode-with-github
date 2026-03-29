@@ -1,5 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
+        //the process of converting a string to an integer value.
         int n = s.length();
         int i = 0;
         int sign = 1;
