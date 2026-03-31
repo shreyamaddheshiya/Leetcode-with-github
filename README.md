@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0875-koko-eating-bananas) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
