@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0283-move-zeroes) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0232-implement-queue-using-stacks) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
