@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
