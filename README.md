@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2235-add-two-integers) |
 ## String
 |  |
