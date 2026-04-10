@@ -1,29 +1,31 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1; 
-        int right = 0;
+        int low = 1;
+        int high = 0;
         
-        for (int i = 0; i < piles.length; i++) {
-            right = Math.max(right, piles[i]);
+        for (int p : piles) {
+            high = Math.max(high, p);
         }
-        int ans = right;
-        while(left <= right){
-            int mid = left + (right - left) / 2;
-            long totalHrs = func(piles,mid);
-            if(totalHrs <= h){
-                ans = mid;
-                right = mid - 1;
-            }else{
-                left = mid + 1;
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            
+            if (canFinish(piles, h, mid)) {
+                high = mid; // try smaller speed
+            } else {
+                low = mid + 1; // increase speed
             }
         }
-        return ans;
+        return low;
     }
-        long func(int[] piles, int speed){
-            long totalHrs = 0;
-            for(int i = 0; i < piles.length; i++){
-                totalHrs+=(piles[i]+speed-1)/speed;
-            }
-        return totalHrs;
+
+    private boolean canFinish(int[] piles, int h, int k) {
+        int hours = 0;
+        
+        for (int p : piles) {
+            hours += (p + k - 1) / k; // ceil(p/k)
+        }
+        
+        return hours <= h;
     }
 }
