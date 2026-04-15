@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0232-implement-queue-using-stacks) |
@@ -119,13 +120,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
