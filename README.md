@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0907-sum-of-subarray-minimums) |
 ## Prefix Sum
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shreyamaddheshiya/Leetcode-with-github/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
